@@ -21,3 +21,26 @@ Git printed a summary indicating a successful commit on branch main (or master) 
 
 Question 8
 The first seven characters are called the short commit hash (or SHA-1 hash). They serve as a unique identifier for that specific commit snapshot in the repository's history.
+
+Question 9
+The four steps are: edit files, stage (`git add`), commit (`git commit`), and push (`git push`).
+
+Question 10
+`README.md` is a standard file automatically rendered on GitHub project pages.
+It serves as the main documentation landing page for human readers.
+
+Question 11
+It authenticates your machine via browser and saves a secure token locally.
+Git uses this token automatically so you don't need a password to push.
+
+Question 12
+`README.md` is shown formatted on the front page.
+GitHub looks specifically for `README` files to render as HTML.
+
+Question 13
+No, pushing only copied local commits to GitHub.
+It did not alter or rewrite any local history.
+
+Question 14
+A private repository exists on GitHub with access limited to invited users.
+A non-existent repository has no cloud backup or web presence at all.
